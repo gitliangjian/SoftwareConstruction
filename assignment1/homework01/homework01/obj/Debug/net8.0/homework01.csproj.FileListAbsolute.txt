@@ -1,0 +1,14 @@
+E:\m_Documents\SoftwareConstruction\homework01\homework01\bin\Debug\net8.0\homework01.exe
+E:\m_Documents\SoftwareConstruction\homework01\homework01\bin\Debug\net8.0\homework01.deps.json
+E:\m_Documents\SoftwareConstruction\homework01\homework01\bin\Debug\net8.0\homework01.runtimeconfig.json
+E:\m_Documents\SoftwareConstruction\homework01\homework01\bin\Debug\net8.0\homework01.dll
+E:\m_Documents\SoftwareConstruction\homework01\homework01\bin\Debug\net8.0\homework01.pdb
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.GeneratedMSBuildEditorConfig.editorconfig
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.AssemblyInfoInputs.cache
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.AssemblyInfo.cs
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.csproj.CoreCompileInputs.cache
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.dll
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\refint\homework01.dll
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.pdb
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\homework01.genruntimeconfig.cache
+E:\m_Documents\SoftwareConstruction\homework01\homework01\obj\Debug\net8.0\ref\homework01.dll
