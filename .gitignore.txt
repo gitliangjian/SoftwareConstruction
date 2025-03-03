@@ -1,0 +1,8 @@
+**/.vs
+**/bin
+**/obj
+**/properties
+**/*.config
+**/*.resx
+**/*.csproj
+**/*.sln
