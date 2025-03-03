@@ -1,0 +1,14 @@
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\bin\Debug\net8.0\IntArray.exe
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\bin\Debug\net8.0\IntArray.deps.json
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\bin\Debug\net8.0\IntArray.runtimeconfig.json
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\bin\Debug\net8.0\IntArray.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\bin\Debug\net8.0\IntArray.pdb
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfoInputs.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.AssemblyInfo.cs
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.csproj.CoreCompileInputs.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\refint\IntArray.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.pdb
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\IntArray.genruntimeconfig.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\IntArray\obj\Debug\net8.0\ref\IntArray.dll

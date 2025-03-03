@@ -1,0 +1,14 @@
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\bin\Debug\net8.0\SieveMethod.exe
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\bin\Debug\net8.0\SieveMethod.deps.json
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\bin\Debug\net8.0\SieveMethod.runtimeconfig.json
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\bin\Debug\net8.0\SieveMethod.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\bin\Debug\net8.0\SieveMethod.pdb
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.AssemblyInfoInputs.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.AssemblyInfo.cs
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.csproj.CoreCompileInputs.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\refint\SieveMethod.dll
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.pdb
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\SieveMethod.genruntimeconfig.cache
+E:\m_Documents\SoftwareConstruction\SC_Homework\homework_02\SieveMethod\obj\Debug\net8.0\ref\SieveMethod.dll
